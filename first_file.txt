@@ -2,3 +2,4 @@ Bla
 Git Good
 New Email MotherF
 *New Feature*
+Merging Indicator
